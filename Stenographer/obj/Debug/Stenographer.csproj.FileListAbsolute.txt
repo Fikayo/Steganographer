@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2012\Projects\Stenographer\Stenographer\bin\Debug\Stenographer.exe
+c:\users\owner\documents\visual studio 2012\Projects\Stenographer\Stenographer\bin\Debug\Stenographer.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Stenographer\Stenographer\obj\Debug\Stenographer.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2012\Projects\Stenographer\Stenographer\obj\Debug\Stenographer.exe
+c:\users\owner\documents\visual studio 2012\Projects\Stenographer\Stenographer\obj\Debug\Stenographer.pdb
+C:\Users\owner\documents\visual studio 2012\Projects\Stenographer\Stenographer\obj\Debug\Stenographer.Presentation.MainForm.resources
+C:\Users\owner\documents\visual studio 2012\Projects\Stenographer\Stenographer\obj\Debug\Stenographer.csproj.GenerateResource.Cache
+C:\Users\owner\documents\visual studio 2012\Projects\Stenographer\Stenographer\obj\Debug\Stenographer.Presentation.ResultForm.resources
+C:\Users\owner\Documents\Visual Studio 2012\Projects\Stenographer\Stenographer\obj\Debug\Stenographer.Properties.Resources.resources
+C:\Users\owner\Documents\Visual Studio 2012\Projects\Stenographer\Stenographer\obj\Debug\Stenographer.Presentation.PleaseWaitDialog.resources
